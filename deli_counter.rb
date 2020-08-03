@@ -2,7 +2,7 @@
 
 katz_deli = []
 
-def line(array)
+def line(x)
   puts "The line is currently empty."
   if array > 0
     puts katz_deli
