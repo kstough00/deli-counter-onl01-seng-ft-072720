@@ -6,6 +6,6 @@ def line(x)
     puts "The line is currently empty."
   else
     x.with_each_index(1) do |name, index|
-      line_array << 
+      line_array << ("#{name}. ")
   end
 end
