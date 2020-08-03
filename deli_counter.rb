@@ -1,3 +1,3 @@
 # Write your code here.
 
-katz_deli
+katz_deli[]
