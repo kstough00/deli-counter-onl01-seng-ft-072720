@@ -7,7 +7,6 @@ def line(x)
   else
     x.with_each_index(1) do |name, index|
       line_array << ("#{name}. #{index}")
-    end
-    
   end
+  puts 
 end
